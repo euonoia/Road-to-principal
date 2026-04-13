@@ -25,5 +25,4 @@ To reach the Principal level, I am committing to three core pillars:
 ##  Tech Stack Evolution
 * **Primary Language:** Python 
 * **OS:** Fedora Linux
-* **Focus:** Backend, DevSecOps, Cybersecurity
 
