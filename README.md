@@ -18,7 +18,7 @@ To reach the Principal level, I am committing to three core pillars:
 | Date | Topic | Key Technical Takeaway |
 | :--- | :--- | :--- |
 | 2026-04-13 | **Project Init** | Initialized "Road to Principal". Committed to structured learning. |
-| [Current] | [Target] | [Waiting for your first Python logic breakthrough] |
+| 2026-04-13 | Python Basics: Print & Arithmetic | Difference between Strings (literal text) and Expressions (calculated values). Learned that comments # are for human-readable logic documentation. |
 
 ---
 
