@@ -13,7 +13,7 @@ To reach the Principal level, I am committing to three core pillars:
 ---
 
 ##  Daily Engineering Log
-*A record of the "Aha!" moments and the bugs that built my mental compiler.*
+*A record of the "Ganun pala" momints and the bugs that built my mental compiler.*
 
 | Date | Topic | Key Technical Takeaway |
 | :--- | :--- | :--- |
