@@ -41,4 +41,5 @@ print(f"{x} * {y} = {multiplication}")
 
 division = (x / y)
 print(f"{x} / {y} = {division}")
-# this is now the completed working version step by step
+# this is now the completed working version 
+# Reflection: I am starting to be confident at my coding skills now without searching for answers
