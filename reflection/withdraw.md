@@ -35,4 +35,4 @@ I may not always achieve a perfect solution or pass every test case, but my goal
 
 Failure is part of the process. What matters is the ability to learn, adapt, and improve.
 
-I am committed to becoming a better engineer—one step at a time.
+I am committed to becoming a better engineer one step at a time.
