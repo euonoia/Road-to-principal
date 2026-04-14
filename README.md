@@ -19,6 +19,7 @@ To reach the Principal level, I am committing to three core pillars:
 | :--- | :--- | :--- |
 | 2026-04-13 | **Project Init** | Initialized "Road to Principal". Committed to structured learning. |
 | 2026-04-13 | Python Basics: Print & Arithmetic | Difference between Strings (literal text) and Expressions (calculated values). Learned that comments `#` are for human-readable logic documentation. |
+| 2026-04-14 | Python Basics: Arithmetic Formatting | Understood that f-strings require expressions inside `{}`; cannot mix raw strings with expressions incorrectly; using variables can simplify formatting and debugging. |
 
 ---
 
