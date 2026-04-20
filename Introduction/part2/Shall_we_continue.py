@@ -3,10 +3,11 @@
 # this introduced the while loop
 
 while True:
+    print("hi")
     decision = input("Shall we continue?")
     if decision == "no":
         break
-    print("hi")
+
 
 print("Okay Then")
 
