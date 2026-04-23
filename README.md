@@ -13,7 +13,7 @@ To reach the Principal level, I am committing to three core pillars:
 ---
 
 # Daily Engineering Log
-*A record of the "Ganun pala" moments and the bugs that built my mental compiler.*
+*A record of the "Ganun pala" momints and the bugs that built my mental compiler.*
 
 | Date | Topic | Key Technical Takeaway |
 | :--- | :--- | :--- |
@@ -22,6 +22,8 @@ To reach the Principal level, I am committing to three core pillars:
 | 2026-04-14 | Python Basics: Arithmetic Formatting | Understood that f-strings require expressions inside `{}`; using variables can simplify formatting and debugging. |
 | 2026-04-22 | Control Flow: Conditionals in Loops | Realized that while loops don't just take static Booleans; they evaluate dynamic conditions. Using `even <= 30` acts as a "live" boolean check that updates every iteration. |
 | 2026-04-23 | Loop State & Initial Values | Learned that the starting state of variables (like `total_sum = 1` vs `0`) determines if the loop runs at all. If the input `limit` is 1, the gatekeeper sees `1 < 1` is False and prevents the loop from ever starting. |
+| 2026-04-23 | **The Pyramid Logic** | Understood the "Seesaw" relationship in loops: As spaces (`n`) decrease, the character string (`row`) must increase to create a centered shape. Printing happens *before* updating variables, which is why the first line uses the initial values. |
+| 2026-04-23 | **Index vs. Length** | Realized that "Counting" (Human) starts at 1, but "Addressing" (Computer) starts at 0. To bridge the gap, use `len - 1` to find the last item. Python's `[-1]` is a cleaner shortcut for this manual math. |
 ---
 
 ## Tech Stack Evolution
