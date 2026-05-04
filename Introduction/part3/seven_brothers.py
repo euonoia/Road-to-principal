@@ -15,7 +15,7 @@ def seven_brothers():
     Prints the names of the seven brothers in alphabetical order.
     This function encapsulates the output logic for easy reuse.
     """
-    print("Aapo")
+    print("Aapo")   
     print("Eero")
     print("Juhani")
     print("Lauri")
@@ -27,4 +27,3 @@ def seven_brothers():
 # is executed directly, not when imported as a module in another file.
 if __name__ == "__main__":
     seven_brothers()
-    
