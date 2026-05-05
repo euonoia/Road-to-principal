@@ -1,4 +1,4 @@
-# ICU Silent Deterioration Spotter (VitalBeat)
+# ICU Silent Deterioration Spotter (VitalBeat)  
 ### IBM Dev Day: Bob Edition Hackathon | May 2026
 
 ## 🚩 The Problem: The "Snapshot" Trap
