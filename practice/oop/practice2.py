@@ -7,6 +7,7 @@ class Book:
 
     def __str__(self):
         return f"{self.title} by {self.author}"
+    
     def information(self):
         print(f"the book {self.title} is published on {self.yearPublished} that written by {self.author} and published on {self.yearPublished} and its {self.isBorrowed}")
     
